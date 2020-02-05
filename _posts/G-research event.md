@@ -1,4 +1,4 @@
-﻿---
+---
 title: "G-Research Event!"
 author: Lars
 ---
